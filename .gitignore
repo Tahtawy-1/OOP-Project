@@ -1,0 +1,23 @@
+# Visual Studio cache and user settings
+.vs/
+*.user
+*.suo
+*.ipch
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Build outputs
+x64/
+Win32/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.lastbuildstate
+*.idb
